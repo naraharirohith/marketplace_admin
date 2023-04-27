@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Nike",
+      "category": "shoe",
+      "description": "running shoe",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdrnr8VKZFzS8VuUpL7UN6uRByb3G7mHbT8H8jF1cevi5/shoe1.jpeg",
+      "price": "1000000000000000000",
+      "supply": 5
+    },
+    {
+      "id": 2,
+      "name": "Puma",
+      "category": "shoe",
+      "description": "casual shoe",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdrnr8VKZFzS8VuUpL7UN6uRByb3G7mHbT8H8jF1cevi5/shoe2.jpeg",
+      "price": "2000000000000000000",
+      "supply": 10
+    },
+    {
+      "id": 3,
+      "name": "Adidas",
+      "category": "shoe",
+      "description": "Running shoe",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdrnr8VKZFzS8VuUpL7UN6uRByb3G7mHbT8H8jF1cevi5/shoe3.jpeg",
+      "price": "1000000000000000000",
+      "supply": 24
+    },
+    {
+      "id": 4,
+      "name": "Rayban",
+      "category": "Specs",
+      "description": "Cooling glasses",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdrnr8VKZFzS8VuUpL7UN6uRByb3G7mHbT8H8jF1cevi5/specs1.jpeg",
+      "price": "3000000000000000000",
+      "supply": 32
+    },
+    {
+      "id": 5,
+      "name": "fasttrack",
+      "category": "Specs",
+      "description": "Cooling glasses",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdrnr8VKZFzS8VuUpL7UN6uRByb3G7mHbT8H8jF1cevi5/specs2.jpeg",
+      "price": "2000000000000000000",
+      "supply": 15
+    },
+    {
+      "id": 6,
+      "name": "titan",
+      "category": "Specs",
+      "description": "Cooling glasses",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdrnr8VKZFzS8VuUpL7UN6uRByb3G7mHbT8H8jF1cevi5/specs3.jpeg",
+      "price": "1000000000000000000",
+      "supply": 80
+    },
+    {
+      "id": 7,
+      "name": "titan_watch",
+      "category": "Watch",
+      "description": "Cool watch",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdrnr8VKZFzS8VuUpL7UN6uRByb3G7mHbT8H8jF1cevi5/watch2.jpeg",
+      "price": "1200000000000000000",
+      "supply": 9
+    },
+    {
+      "id": 8,
+      "name": "fasttrack_watch",
+      "category": "Watch",
+      "description": "General watch",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdrnr8VKZFzS8VuUpL7UN6uRByb3G7mHbT8H8jF1cevi5/watch1.jpg",
+      "price": "900000000000000000",
+      "supply": 45
+    },
+    {
+      "id": 9,
+      "name": "casio_watch",
+      "category": "Watch",
+      "description": "Cool casio watch",
+      "image": "https://gateway.pinata.cloud/ipfs/Qmdrnr8VKZFzS8VuUpL7UN6uRByb3G7mHbT8H8jF1cevi5/watch3.jpg",
+      "price": "900000000000000000",
+      "supply": 45
+    }
+  ]
+}
